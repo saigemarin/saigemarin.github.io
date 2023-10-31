@@ -124,7 +124,7 @@ function draw() {
   background(151, 210, 252);
   
   //call burgerbun display function
-  // burgerBun1.display()
+  burgerBun1.display()
   
   //call sesame seeds display function
   sesameSeeds1.displaySeeds()
